@@ -1,0 +1,28 @@
+{
+  "name": "missing-date-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "date-and-time": "^0.13.1",
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeshashetty/missing-date-problem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeshashetty/missing-date-problem/issues"
+  },
+  "homepage": "https://github.com/eeshashetty/missing-date-problem#readme"
+}

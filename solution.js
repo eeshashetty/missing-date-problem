@@ -37,10 +37,4 @@ function solution(D) {
     return D_new
 }
 
-const D1 = {"2019-01-01":100, "2019-01-04": 115}
-const D2 = {"2019-01-10":10, "2019-01-11": 20, "2019-01-13": 10}
-
-console.log("Input =", D1)
-console.log("Output =", solution(D1))
-console.log("\nInput =", D2)
-console.log("Output =", solution(D2))
+module.exports = solution

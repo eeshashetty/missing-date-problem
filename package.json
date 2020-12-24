@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "date-and-time": "^0.13.1",
+    "date-and-time": "^0.14.2",
     "jest": "^26.0.1"
   },
   "devDependencies": {},
